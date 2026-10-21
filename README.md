@@ -1,0 +1,1 @@
+# msis4133-fashion-trend-detection-forecasting
